@@ -6,7 +6,7 @@ Abstract
 The ClaDeMuC-CD project addresses the challenge of face-invariant recognition and detection of mythology characters from images. By constructing a custom dataset and leveraging state-of-the-art deep learning architectures—including Convolutional Neural Networks (CNNs), Vision Transformers, and YOLOv5—this research achieves high accuracy in both classification and object detection tasks. The project explores data preprocessing, model training, evaluation, and deployment, highlighting the effectiveness of modern AI techniques for complex visual recognition problems.
 
 Features
-Custom Dataset Creation: Curated and annotated a diverse dataset of mythology character images.
+Custom Dataset Creation: Curated and annotated a diverse dataset of mythology character images(Roboflow-tool was used for generating this custom dataset).
 
 Deep Learning Models: Implemented and compared CNNs, Vision Transformers, and YOLOv5 for classification and detection.
 
