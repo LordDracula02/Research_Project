@@ -18,5 +18,8 @@ Deployment: Demonstrated real-world applicability through scalable cloud deploym
 
 Publication
 For a detailed description of the methodology and results, please refer to the official publication:
+
+link: https://ieeexplore.ieee.org/abstract/document/10118094
+
 Citation text: A. B. Tumati, R. Gangaraju, B. S. Ruthvik Mannepalli, S. D and B. K. Alluri, "Face Invariant Classification and Detection of Mythology Characters Using Custom Dataset (ClaDeMuC-CD)," 2023 Third International Conference on Advances in Electrical, Computing, Communication and Sustainable Technologies (ICAECT), Bhilai, India, 2023, pp. 1-8, doi: 10.1109/ICAECT57570.2023.10118094. keywords: {Training;Analytical models;Technological innovation;Object detection;Computer architecture;Transformers;Task analysis;CNN;R-NN;Resnet-50;DenseNet;VGG-19;EfficientNet;Vision Transformer;Yolo-V5;Detectron-V2},
 
